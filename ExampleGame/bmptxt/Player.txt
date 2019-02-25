@@ -1,0 +1,5 @@
+4 img
+Player_Stand_U.bmp 50
+Player_Stand_R.bmp 50
+Player_Stand_D.bmp 50
+Player_Stand_L.bmp 50

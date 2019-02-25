@@ -1,0 +1,2 @@
+1 img
+bed_side_R.bmp 100

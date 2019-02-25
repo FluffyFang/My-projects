@@ -1,0 +1,2 @@
+1 img
+table_long_R.bmp 100

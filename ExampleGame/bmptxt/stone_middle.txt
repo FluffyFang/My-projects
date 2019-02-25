@@ -1,0 +1,2 @@
+1 img
+stone_middle.bmp 100

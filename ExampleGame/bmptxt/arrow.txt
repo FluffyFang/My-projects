@@ -1,0 +1,12 @@
+11 img
+arrow_0.bmp 80
+arrow_1.bmp 80
+arrow_2.bmp 80
+arrow_3.bmp 80
+arrow_4.bmp 80
+arrow_5.bmp 80
+arrow_6.bmp 80
+arrow_7.bmp 80
+arrow_8.bmp 80
+arrow_9.bmp 80
+arrow_10.bmp 80

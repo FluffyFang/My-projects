@@ -1,0 +1,2 @@
+1 img
+bed_tall_1.bmp 100
