@@ -9,3 +9,7 @@ The version I have uploaded is missing realistic word lists. The current files a
 
 Phonebook is a simple implementation of database interfacing. 
 While it can be a standalone program in its current form, your phone likely has a better one already.
+
+Implementation of the Huffman algorithm was a class project and also my first foray into C#.
+We were allowed to choose our language for this project. My partner was comfortable with the language and I was up for a challenge.
+In the end, our implementation compressed the sample file most out of 7 other groups.
